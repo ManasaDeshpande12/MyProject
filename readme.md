@@ -1,1 +1,1 @@
-"This is my Test Project"
+"This is file2 which got created in git repo directory
